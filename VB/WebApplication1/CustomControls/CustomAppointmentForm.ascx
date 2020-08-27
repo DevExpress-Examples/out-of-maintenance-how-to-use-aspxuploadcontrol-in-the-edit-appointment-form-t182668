@@ -1,5 +1,5 @@
 ﻿<%@ Control Language="vb" AutoEventWireup="true" CodeBehind="CustomAppointmentForm.ascx.vb" Inherits="WebApplication1.CustomControls.CustomAppointmentForm" %>
-<%@ Register Assembly="DevExpress.Web.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.v15.2, Version=15.2.20.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
 
 
 
